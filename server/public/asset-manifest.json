@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc01e404.css",
+    "main.js": "/static/js/main.36989c11.js",
+    "static/js/787.f1b631a9.chunk.js": "/static/js/787.f1b631a9.chunk.js",
+    "static/media/img1.jpg": "/static/media/img1.cc7a3e5be26954afe850.jpg",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/primeicons.svg": "/static/media/primeicons.c55d94a248721abbd220.svg",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.03523cf578d69fa92322.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/NunitoSans-BlackItalic.ttf": "/static/media/NunitoSans-BlackItalic.788a45bd7068cfcbe546.ttf",
+    "static/media/NunitoSans-BoldItalic.ttf": "/static/media/NunitoSans-BoldItalic.c0dc34085b994b75b1c7.ttf",
+    "static/media/NunitoSans-ExtraBoldItalic.ttf": "/static/media/NunitoSans-ExtraBoldItalic.7e68f94247ab14c901e2.ttf",
+    "static/media/NunitoSans-Black.ttf": "/static/media/NunitoSans-Black.a2cd9dc8dc253dbbf802.ttf",
+    "static/media/NunitoSans-Bold.ttf": "/static/media/NunitoSans-Bold.8268666c3b2ca2ec11c0.ttf",
+    "static/media/NunitoSans-Italic.ttf": "/static/media/NunitoSans-Italic.a8081512ff822006773a.ttf",
+    "static/media/NunitoSans-SemiBoldItalic.ttf": "/static/media/NunitoSans-SemiBoldItalic.ccfebb169c066078a978.ttf",
+    "static/media/NunitoSans-ExtraBold.ttf": "/static/media/NunitoSans-ExtraBold.52a99d58a36f2b7a78b3.ttf",
+    "static/media/NunitoSans-ExtraLightItalic.ttf": "/static/media/NunitoSans-ExtraLightItalic.c09892aa298901a58264.ttf",
+    "static/media/NunitoSans-LightItalic.ttf": "/static/media/NunitoSans-LightItalic.d59a4498d5ab0b82f25c.ttf",
+    "static/media/NunitoSans-Regular.ttf": "/static/media/NunitoSans-Regular.87d9266583abd389ca1f.ttf",
+    "static/media/NunitoSans-SemiBold.ttf": "/static/media/NunitoSans-SemiBold.662b866576cfea51dd64.ttf",
+    "static/media/NunitoSans-ExtraLight.ttf": "/static/media/NunitoSans-ExtraLight.22307f8ccc4ba46e72eb.ttf",
+    "static/media/NunitoSans-Light.ttf": "/static/media/NunitoSans-Light.7f9eed4cca4d0ae6a772.ttf",
+    "static/media/primeicons.eot": "/static/media/primeicons.dfbfef2de4bfb34e9722.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.e61f3495a7ecd3d571a4.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.3a0d4a58da62cf7c55bb.ttf",
+    "index.html": "/index.html",
+    "main.bc01e404.css.map": "/static/css/main.bc01e404.css.map",
+    "main.36989c11.js.map": "/static/js/main.36989c11.js.map",
+    "787.f1b631a9.chunk.js.map": "/static/js/787.f1b631a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc01e404.css",
+    "static/js/main.36989c11.js"
+  ]
+}

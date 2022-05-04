@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+
+}
+
+
+/* @import 'bootstrap/dist/css/bootstrap.min.css'; */
+
+
+
+.ma-label-s1 {
+  font: normal normal normal 13px/20px Poppins;
+  color: var(--shadow-57);
+}
+
+
+.p-error {
+  font: normal normal normal 11px/17px Poppins;
+  letter-spacing: 0px;
+  color: var(--required);
+  margin: 3px;
+}
+
+
+.ma-w100p {
+  width: 100% !important;
+}
+
+.ma-required {
+  color: red;
+}

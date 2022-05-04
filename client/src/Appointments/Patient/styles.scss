@@ -1,0 +1,32 @@
+.book-an-apt-title {
+    font-family: Nunito Sans;
+    color: var(--shadow-30);
+}
+
+
+.p-slot {
+    margin: 10px;
+    border: 1px solid #cccccc;
+    padding: 4px 8px;
+    border-radius: 8px;
+    font: normal normal 500 14px/19px Nunito Sans;
+    cursor: pointer;
+}
+
+
+.p-active-slot {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: white;
+}
+
+
+.p-disable-slot {
+    background-color: #ff6666;
+
+}
+
+.slot-info {
+    font-family: Nunito Sans;
+
+}

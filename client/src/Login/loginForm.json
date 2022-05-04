@@ -1,0 +1,19 @@
+[
+    {
+        "Type": "Number",
+        "Label": "Mobile Number",
+        "FieldName": "phoneNumber",
+        "MinLength": 10,
+        "MaxLength": 10,
+        "Required": true,
+        "errMsgCustom": true,
+        "errMsg": "Invalid Mobile Number"
+    },
+    {
+        "Type": "Password",
+        "Label": "Password",
+        "FieldName": "password",
+        "Required": true,
+        "MinLength": 8
+    }
+]

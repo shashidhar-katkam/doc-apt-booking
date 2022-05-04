@@ -1,0 +1,62 @@
+[
+    {
+        "Type": "Number",
+        "Label": "Phone Number",
+        "FieldName": "phoneNumber",
+        "MinLength": 10,
+        "MaxLength": 10,
+        "Required": true,
+        "errMsgCustom": true,
+        "errMsg": "Invalid Mobile Number"
+    },
+    {
+        "Type": "Password",
+        "Label": "Password",
+        "FieldName": "password",
+        "Required": true,
+        "MinLength": 8
+    },
+    {
+        "Type": "Password",
+        "Label": "Confirm Password",
+        "FieldName": "passwordConfirm",
+        "Required": true,
+        "MinLength": 8
+    },
+    {
+        "Type": "Text",
+        "Label": "Name",
+        "FieldName": "name",
+        "Required": true
+    },
+    {
+        "Type": "Text",
+        "Label": " Gender",
+        "FieldName": "gender",
+        "Required": true
+    },
+    {
+        "Type": "Email",
+        "Label": "Email",
+        "FieldName": "email",
+        "Required": true
+    },
+    {
+        "Type": "Text",
+        "Label": " Address",
+        "FieldName": "address",
+        "Required": true
+    },
+    {
+        "Type": "Text",
+        "Label": " Specialization",
+        "FieldName": "specialization",
+        "Required": true
+    },
+    {
+        "Type": "Text",
+        "Label": " Qualification",
+        "FieldName": "qualification",
+        "Required": true
+    }
+]

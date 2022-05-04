@@ -1,0 +1,70 @@
+.home-section1 {
+
+    background-color: rgba($color: #000000, $alpha: 0.5);
+    //min-height: 400px;
+    min-height: calc(100vh - 188px);
+
+    .home-section1-w {
+        padding: 60px 20px;
+        margin-top: 0px;
+        // min-height: 400px;
+    }
+
+    h1 {
+        font: normal normal normal 50px/60px Poppins;
+        margin: 4px;
+        color: white;
+    }
+
+    p {
+        font: normal normal normal 14px/20px Poppins;
+        margin: 4px;
+        color: #cccccc;
+        width: 50%;
+    }
+}
+
+
+.home-section2 {
+
+    background-color: rgba($color: #fff, $alpha: 0.7);
+    min-height: 600px;
+
+    .home-section2-w {
+        padding: 60px 20px;
+        margin-top: 0px;
+
+    }
+
+    h1 {
+        font: normal normal normal 50px/60px Poppins;
+        margin: 4px;
+        color: #404040;
+    }
+
+    p {
+        font: normal normal normal 14px/20px Poppins;
+        margin: 4px;
+        color: #666666;
+        width: 50%;
+    }
+
+
+}
+
+
+.specialist-card {
+
+    .img-s {
+        min-height: 200px;
+    }
+
+
+    width: 24em;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 20px;
+    display: inline-block;
+    height:360px;
+
+}
